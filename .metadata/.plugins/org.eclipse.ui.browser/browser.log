@@ -1,0 +1,93 @@
+
+May 31, 2021 20:21:06.725 NEW SESSION
+May 31, 2021 20:21:06.725 [11988:11684:0531/202106.723:ERROR:device_event_log_impl.cc(214)] [20:21:06.724] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 01, 2021 17:42:34.390 [11988:2156:0601/174233.537:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2021 17:42:35.461 [11988:13864:0601/174233.537:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 01, 2021 17:42:56.140 [11988:2156:0601/174256.139:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2021 17:43:37.110 [11988:2156:0601/174337.109:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2021 17:43:48.541 [11988:13864:0601/174348.540:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 01, 2021 17:44:59.338 [11988:2156:0601/174459.334:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2021 17:45:41.59 [11988:13864:0601/174541.058:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 01, 2021 17:48:09.265 [11988:2156:0601/174809.262:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2021 17:48:29.827 [11988:13864:0601/174829.825:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 01, 2021 17:55:31.713 [11988:8564:0601/175531.709:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 01, 2021 17:55:45.216 [11988:2156:0601/175545.212:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2021 18:10:41.254 [11988:2156:0601/181041.252:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2021 18:10:41.257 [11988:12508:0601/181041.256:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 01, 2021 18:20:41.267 [11988:2156:0601/182041.264:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2021 18:20:41.271 [11988:13864:0601/182041.265:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 01, 2021 18:22:01.227 [11988:2156:0601/182201.226:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Jun 01, 2021 18:22:01.230 [11988:4240:0601/182201.228:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 15:38:12.768 [11988:9956:0602/153812.768:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 15:38:12.923 [11988:2156:0602/153812.923:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2021 15:38:13.526 [11988:2156:0602/153812.923:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jun 02, 2021 15:38:13.526 [11988:2156:0602/153812.923:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jun 02, 2021 15:38:37.997 [11988:11684:0602/153837.996:ERROR:device_event_log_impl.cc(214)] [15:38:37.996] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Jun 02, 2021 15:38:38.680 [11988:2156:0602/153838.678:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jun 02, 2021 15:38:42.721 [11988:2156:0602/153842.720:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jun 02, 2021 15:38:49.197 [11988:11684:0602/153849.153:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jun 02, 2021 15:38:49.518 [11988:11684:0602/153849.517:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jun 02, 2021 15:38:50.33 [11988:11684:0602/153850.032:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jun 02, 2021 15:39:06.226 [11988:2156:0602/153906.225:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2021 15:39:24.69 [11988:2156:0602/153924.067:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jun 02, 2021 15:39:29.619 [11988:2156:0602/153929.617:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jun 02, 2021 15:40:50.290 [11988:9956:0602/154050.289:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 15:40:51.55 [11988:2156:0602/154051.054:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jun 02, 2021 15:40:52.378 [11988:2156:0602/154052.376:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2021 15:40:58.374 [11988:2156:0602/154058.372:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jun 02, 2021 15:41:35.297 [11988:15208:0602/154135.293:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 15:43:27.814 [11988:9956:0602/154327.811:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 15:43:47.32 [11988:2156:0602/154347.029:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jun 02, 2021 15:43:51.809 [11988:2156:0602/154351.805:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2021 15:44:11.344 [11988:2156:0602/154411.341:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jun 02, 2021 15:46:16.580 [11988:9956:0602/154616.576:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 15:49:23.942 [11988:2156:0602/154923.939:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2021 15:49:47.773 [11988:2156:0602/154947.772:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jun 02, 2021 15:50:15.719 [11988:2156:0602/155015.716:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Jun 02, 2021 15:53:18.466 [11988:12700:0602/155318.463:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 15:59:23.959 [11988:2156:0602/155923.956:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2021 16:03:18.478 [11988:9956:0602/160318.475:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 16:09:23.966 [11988:2156:0602/160923.965:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2021 16:13:18.478 [11988:11196:0602/161318.477:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 16:19:23.977 [11988:2156:0602/161923.976:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2021 16:23:18.493 [11988:11196:0602/162318.490:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 16:29:23.996 [11988:2156:0602/162923.993:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2021 16:33:18.510 [11988:892:0602/163318.506:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 16:39:24.07 [11988:2156:0602/163924.004:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2021 16:43:18.513 [11988:12700:0602/164318.512:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 16:49:24.17 [11988:2156:0602/164924.014:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2021 16:53:20.387 [11988:11196:0602/165318.526:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 16:59:24.33 [11988:2156:0602/165924.030:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2021 17:03:18.546 [11988:14544:0602/170318.544:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 18:35:13.222 [11988:2156:0602/183513.220:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2021 18:35:13.227 [11988:14544:0602/183513.225:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 18:37:10.940 [11988:2156:0602/183710.937:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Jun 02, 2021 18:37:10.945 [11988:14544:0602/183710.938:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 02, 2021 18:37:15.970 [11988:2156:0602/183715.939:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2021 18:37:20.908 [11988:2156:0602/183720.906:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Jun 02, 2021 18:37:20.911 [11988:11196:0602/183720.906:ERROR:get_updates_processor.cc(255)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Jun 03, 2021 19:31:00.60 NEW SESSION
+Jun 03, 2021 19:31:00.60 [8524:5448:0603/193100.057:ERROR:device_event_log_impl.cc(214)] [19:31:00.056] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 03, 2021 19:31:00.95 [8524:5448:0603/193100.057:ERROR:device_event_log_impl.cc(214)] [19:31:00.056] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 03, 2021 19:31:00.424 [8524:7176:0603/193100.397:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2021 19:31:20.596 [8524:7176:0603/193120.592:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2021 19:32:13.477 [8524:7176:0603/193213.473:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2021 19:33:34.549 [8524:7176:0603/193334.546:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2021 19:37:09.762 [8524:7176:0603/193709.761:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2021 19:43:19.957 [8524:7176:0603/194319.954:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2021 19:44:51.22 [11464:7388:0603/194451.021:ERROR:device_event_log_impl.cc(214)] [19:44:51.020] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 03, 2021 19:44:51.24 [11464:7388:0603/194451.021:ERROR:device_event_log_impl.cc(214)] [19:44:51.020] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 03, 2021 19:44:51.36 [11464:11384:0603/194451.034:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2021 19:45:16.887 [11464:11384:0603/194516.883:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2021 19:46:04.487 [11464:11384:0603/194604.486:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2021 19:47:37.806 [11464:11384:0603/194737.803:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2021 19:51:02.576 [11464:11384:0603/195102.572:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2021 19:56:36.435 [11464:11384:0603/195636.432:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2021 20:06:36.448 [11464:11384:0603/200636.445:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 04, 2021 15:46:12.883 [11464:11384:0604/154612.883:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Jun 04, 2021 15:56:12.899 [11464:11384:0604/155612.896:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+
+Jun 08, 2021 09:35:08.900 NEW SESSION
+Jun 08, 2021 09:35:08.900 [10472:14940:0608/093508.895:ERROR:device_event_log_impl.cc(214)] [09:35:08.895] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 08, 2021 09:35:08.908 [10472:14940:0608/093508.896:ERROR:device_event_log_impl.cc(214)] [09:35:08.895] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)

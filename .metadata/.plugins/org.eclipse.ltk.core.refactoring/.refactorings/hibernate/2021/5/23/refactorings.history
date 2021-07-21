@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;App.java&apos; to &apos;hibernate/src/main/java/com.tel.hib&apos;&#x0D;&#x0A;- Original project: &apos;hibernate&apos;&#x0D;&#x0A;- Destination element: &apos;hibernate/src/main/java/com.tel.hib&apos;&#x0D;&#x0A;- Original element: &apos;com.tel.hibernate.App.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.tel.hib" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.tel.hibernate{App.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1622386070070" units="1" version="1.0"/>
+</session>
